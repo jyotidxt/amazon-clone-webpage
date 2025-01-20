@@ -1,0 +1,46 @@
+@media  ( max-width: 1068px){
+    #navbar{
+        height: 6rem ;
+        width: 57.6rem ;
+    }
+    #search{
+        width: 9rem;
+    }
+    .hero-section{
+        height: 84rem;
+        width: 57.8rem;
+        background-position: center;
+    }
+    .HS{
+        top:55rem;
+        left: 1rem;
+        width: 46rem;
+        margin: 6rem;
+    }
+    .bars{
+        width: 57.8rem;
+    }
+    .box-items{
+   display: grid;
+   width: 58rem;
+   height: 96rem;
+   grid-gap: 0.5rem;
+   grid-template-columns: 13.5rem 13.5rem 13.5rem 13.5rem;
+    }
+    .dibba{
+        width: 12rem;
+    }
+    .foot-panel1{
+        width: 58rem;
+    }
+    .foot-panel2{
+        width: 47.8rem;
+    }
+    .foot-panel2 ul p{
+        margin: 0rem;
+    }
+    .foot-panel3, .foot-panel4{
+        width:57.8rem;
+    }
+}
+
